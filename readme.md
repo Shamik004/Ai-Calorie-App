@@ -1,4 +1,3 @@
-```markdown
 # Calorie Tracker AI 🍎
 
 A web application that uses AI to analyze food images and estimate nutritional values with a modern UI.
@@ -16,7 +15,6 @@ A web application that uses AI to analyze food images and estimate nutritional v
 1. Clone the repository:
 ```bash
 git clone 
-```
 
 2. Open `index.html` in a modern browser
 
