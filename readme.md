@@ -14,7 +14,7 @@ A web application that uses AI to analyze food images and estimate nutritional v
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Shamik004/Ai-Calorie-App.git
 ```
 2. Open `index.html` in a modern browser
 
