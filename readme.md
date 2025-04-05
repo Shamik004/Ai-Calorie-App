@@ -52,7 +52,3 @@ git clone https://github.com/Shamik004/Ai-Calorie-App.git
 ## Contributing
 
 Contributions are welcome! Please open an issue first to discuss changes.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
