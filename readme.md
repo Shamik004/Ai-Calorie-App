@@ -13,7 +13,7 @@ A web application that uses AI to analyze food images and estimate nutritional v
 ## Installation
 
 1. Clone the repository:
-```bash
+bash
 git clone 
 
 2. Open `index.html` in a modern browser
